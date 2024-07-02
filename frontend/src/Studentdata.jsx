@@ -1,0 +1,29 @@
+ export const Studentdata = [
+    {
+        id:1,
+        firstName:'Aman',
+        lastName:'Khare',
+        contact:'9889764532',
+        email:'aman@123',
+        age:'25',
+        address:'lko'
+    },
+    {
+        id:2,
+        firstName:'Abhinav',
+        lastName:'Verma',
+        contact:'8998674532',
+        email:'abhinav@456',
+        age:'29',
+        address:'delhi'
+    },
+    {
+        id:3,
+        firstName:'Ram',
+        lastName:'Kumar',
+        contact:'6392887623',
+        email:'ram@987',
+        age:'24',
+        address:'mumbai'
+    }
+]
